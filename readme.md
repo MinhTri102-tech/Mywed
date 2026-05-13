@@ -84,7 +84,7 @@ Cho phép khách hàng gửi thông tin liên hệ.
 
 Hỗ trợ tư vấn và đặt hàng.
 
-5. Footer
+5. liên Hệ
  
 Hiển thị mạng xã hội và thông tin bản quyền website.
 
@@ -100,6 +100,16 @@ Design:
 canva
 ## AI
 ChatGPT
+## Dòng lệnh
+Trang chủ: Giới thiệu website, hiển thị hình ảnh nổi bật và điều hướng đến các trang khác.
+
+Giới thiệu sản phẩm: Hiển thị các dòng siêu xe cùng thông tin và đặc điểm nổi bật của sản phẩm.
+
+Chi tiết sản phẩm: Hiển thị hình ảnh, giá bán và mô tả chi tiết của từng sản phẩm.
+
+Liên hệ: Cho phép khách hàng gửi thông tin liên hệ và hỗ trợ tư vấn.
+
+Footer: Hiển thị thông tin bản quyền và các nền tảng mạng xã hội như Facebook, TikTok, Shopee và Email.
 
 👨‍💻 Thông tin tác giả
 Sinh viên: TRẦN MINH TRÍ
