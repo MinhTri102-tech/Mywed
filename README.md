@@ -65,6 +65,10 @@ Bố cục: Sử dụng Flexbox và CSS Grid để đảm bảo các khối nộ
 
 Thẩm mỹ: Màu sắc trung tính (Grey, Dark, White) tạo cảm giác sang trọng và tập trung vào hình ảnh siêu xe.
 
+## Công nghệ sữ dụng
+Design:
+canva
+
 👨‍💻 Thông tin tác giả
 Sinh viên: TRẦN MINH TRÍ
 
