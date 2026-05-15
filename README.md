@@ -26,7 +26,7 @@ Kinh nghiệm & Kỹ năng: Trình bày lịch sử hoạt động (Verified His
 
 Công cụ sử dụng: Trưng bày các biểu tượng công nghệ/thương hiệu liên quan.
 <img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/af0b1528-37c5-4527-9eba-94acc973a727" />
-
+## LINK : https://minhtri102-tech.github.io/Mywed/gioithieu.html
 ## 3. Sản Phẩm (Products)
 Mục tiêu: Hiển thị danh mục các siêu xe đang có mặt tại showroom dưới dạng lưới (Grid).
 
