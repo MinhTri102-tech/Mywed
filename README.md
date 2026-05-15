@@ -40,7 +40,8 @@ Phân loại (Filter): Các nút lọc phía trên để người dùng dễ dà
 
 Điều hướng (Pagination): Các nút "Prev" và "Next" để chuyển trang sản phẩm mượt mà.
 <img width="479" height="488" alt="image" src="https://github.com/user-attachments/assets/2486d22a-71b2-498c-9640-6846669e67fe" />
-
+## LINK :
+https://minhtri102-tech.github.io/Mywed/sanpham.html
 ## 4. Chi tiết sản phẩm (Product Detail)
 Mục tiêu: Tập trung vào trải nghiệm hình ảnh và thông số kỹ thuật chi tiết nhất.
 
