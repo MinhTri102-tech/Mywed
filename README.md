@@ -52,7 +52,7 @@ Trải nghiệm đỉnh cao: Sử dụng sơ đồ mặt cắt/phối cảnh 3D 
 Thông số kỹ thuật: Bảng dữ liệu chi tiết về tên xe (Segelt Chiron), vật liệu (Carbon), và các mốc thời gian/hiệu năng đặc biệt.
 <img width="481" height="496" alt="image" src="https://github.com/user-attachments/assets/72920465-5235-4595-8926-9748e3936b0a" />
 ## LINK :
-https://minhtri102-tech.github.io/Mywed/chitietsanpham
+https://minhtri102-tech.github.io/Mywed/chitietsanpham.html
 ## 5. Liên Hệ (Contact)
 Mục tiêu: Thu thập thông tin từ khách hàng và hỗ trợ tư vấn trực tiếp.
 
@@ -62,7 +62,8 @@ Contact Form: Các trường nhập liệu chuyên nghiệp (Họ tên, Email, S
 
 Feature Highlights: Các thẻ giới thiệu đặc tính nổi bật như V12 Engine, Aerodynamics, Luxury Interior để củng cố niềm tin trước khi khách hàng gửi tin nhắn.
 <img width="488" height="491" alt="image" src="https://github.com/user-attachments/assets/0c10ccec-c0b5-4f93-bf9a-966281456ca6" />
-
+## LINK :
+https://minhtri102-tech.github.io/Mywed/lienhe.html
 ## 6. mô tả chức năng
 1. Trang chủ
 
