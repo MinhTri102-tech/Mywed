@@ -14,7 +14,7 @@ Call to Action (CTA): Nút "Xem sản phẩm" và "Tìm hiểu thêm" để dẫ
 
 Social Links: Hệ thống các nút liên kết mạng xã hội (Facebook, TikTok, Shopee, Email) ngay tại trung tâm để tăng tính kết nối.
 <img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/89ade295-8e96-4472-a0ea-b1d8022cf8eb" />
- 
+ ## LINK : https://minhtri102-tech.github.io/Mywed/trangchu.html
 ## 2. Trang Giới Thiệu (About)
 Mục tiêu: Cung cấp thông tin chuyên sâu về năng lực chuyên môn và giá trị cốt lõi.
 
